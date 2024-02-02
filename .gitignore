@@ -159,6 +159,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Streamli
+# Streamlit
 .streamlit/
 # .streamlit/secrets.toml  # 이게 정상(configurations가지고 하면)
